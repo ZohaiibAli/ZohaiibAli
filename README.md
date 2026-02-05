@@ -1,5 +1,5 @@
 <h1>Hi👋, I'm Zohaib Ali</h1> 
-<h2> A passionate Software Engineer</h1>
+<h2> Full Stack Developer </h1>
 
 
 # 💻 Tech Stack:
