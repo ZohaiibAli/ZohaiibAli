@@ -78,8 +78,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=githubzohaib&color=blueviolet&style=for-the-badge)
-
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
