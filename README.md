@@ -68,28 +68,23 @@
 
 ### 📊 GitHub Stats
 
+<!-- 🔧 TODO: replace YOUR-STATS-INSTANCE with your self-hosted github-readme-stats Vercel URL -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=githubzohaib&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubzohaib&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img height="165" src="https://YOUR-STATS-INSTANCE.vercel.app/api?username=githubzohaib&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+<img height="165" src="https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=githubzohaib&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=githubzohaib&theme=dark&hide_border=false" />
+<!-- 🔧 TODO: replace YOUR-STREAK-INSTANCE with your self-hosted github-readme-streak-stats Vercel URL -->
+<img src="https://YOUR-STREAK-INSTANCE.vercel.app/?user=githubzohaib&theme=dark&hide_border=false" />
 
 </div>
 
 ### 🏆 GitHub Trophies
 
+<!-- 🔧 TODO: replace YOUR-TROPHY-INSTANCE with your self-hosted github-profile-trophy Vercel URL -->
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=githubzohaib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=githubzohaib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://YOUR-TROPHY-INSTANCE.vercel.app/?username=githubzohaib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -102,8 +97,9 @@
 </div>
 
 <!-- Snake Game Repo View -->
+<!-- 🔧 Works automatically once the GitHub Action in .github/workflows/snake.yml has run at least once -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/githubzohaib/githubzohaib/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/githubzohaib/githubzohaib/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
