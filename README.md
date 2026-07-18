@@ -1,68 +1,113 @@
 <div align="center">
 
-# Hi, I'm Zohaib Ali 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Zohaib%20Ali&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Python%20%26%20FastAPI%20%7C%20ML%2FAI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-### Full Stack Developer | MERN Stack | Python & FastAPI | ML/AI Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+apps;MERN+Stack+%7C+Python+%2B+FastAPI;RAG+Chatbots+%26+ML+Recommendation+Systems;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+apps;MERN+Stack+%7C+Python+%2B+FastAPI;Exploring+Machine+Learning+%26+AI;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" />
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=githubzohaib&color=7dd3fc&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/githubzohaib?label=Followers&style=for-the-badge&color=7dd3fc)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 Who I Am
 
-- 🚀 Full Stack Developer specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🐍 Also build backends with **Python, FastAPI, and SQL/PostgreSQL**
-- 🤖 Currently exploring **Machine Learning & AI**, applying it to real-world projects
-- 🎨 UI/UX-minded — comfortable in **Figma** and **Canva** for design work
-- 📫 Reach me at **zohaibaliwork@gmail.com**
+```typescript
+const zohaibAli = {
+  title: "Full Stack Developer | MERN Stack | Python & FastAPI | ML/AI Enthusiast",
+  stack: {
+    languages: ["C", "C++", "C#", "Python", "JavaScript"],
+    frontend: ["React", "HTML5", "TailwindCSS", "Vite"],
+    backend: ["Node.js", "Express.js", "FastAPI"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    ml: ["NumPy", "Pandas", "scikit-learn", "TensorFlow"],
+    tools: ["Git", "GitHub", "Vercel", "Figma", "Render"],
+  },
+  launchedProjects: ["HelpGhar"],
+  certifications: [],
+  status: "Building scalable full stack apps & exploring ML/AI",
+  openTo: ["Full Stack Roles", "AI/LLM Integration Work", "Freelance Projects"],
+};
+```
 
 ---
 
-### 💻 Tech Stack
+### 🚀 Featured Projects
+
+#### HelpGhar
+
+A service marketplace with a RAG-based chatbot and ML recommendation workers for its customers.
+
+<div align="center">
+
+[![HelpGhar](https://github-readme-stats.vercel.app/api/pin/?username=githubzohaib&repo=HelpGhar&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/githubzohaib/HelpGhar)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React, TailwindCSS, Vite |
+| Backend | Node.js, Express.js |
+| AI/RAG | Python, ML Recommendation Engine |
+| Database | MongoDB / PostgreSQL |
+
+🔗 [Live](https://help-ghar-beta.vercel.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/githubzohaib/HelpGhar)
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js&theme=dark" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,tailwind,vite&theme=dark" />
 
-**Backend & APIs**
+**Backend**
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
-**Databases**
+**AI / Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,tensorflow&theme=dark" />
 
-**Machine Learning / AI**
+**Dev Tools**
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma&theme=dark" />
 
-**Tools & Deployment**
+---
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=githubzohaib&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubzohaib&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=githubzohaib&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=githubzohaib&theme=nord&no-frame=true&no-bg=true&column=7" />
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=githubzohaib&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff" />
+
+</div>
 
 ---
 
@@ -70,14 +115,10 @@
 
 <div align="center">
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zohaibdesign)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaib-ali-5251b328b/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaibaliwork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaib-ali-5251b328b/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/zohaibdesign)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibaliwork@gmail.com)
 
 </div>
 
-<div align="center">
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
