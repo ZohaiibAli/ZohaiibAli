@@ -1,5 +1,23 @@
-👨‍💻 Who I Am
-const zohaibAli = {  title: "Full Stack Developer | MERN Stack | Python & FastAPI | ML/AI Enthusiast",  stack: ["C", "C++", "C#", "Python", "JavaScript", "React", "TailwindCSS", "Node.js", "Express.js", "FastAPI", "MongoDB", "PostgreSQL", "MySQL", "NumPy", "Pandas", "scikit-learn", "TensorFlow"],  launchedProjects: "N/A",  certifications: "N/A",  status: "Exploring Machine Learning & AI, applying it to real-world projects",  openTo: "Collaborations and new opportunities"};
+<div align="center">
+
+# Hi, I'm Zohaib Ali 👋
+
+### Full Stack Developer | MERN Stack | Python & FastAPI | ML/AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+apps;MERN+Stack+%7C+Python+%2B+FastAPI;Exploring+Machine+Learning+%26+AI;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" />
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🚀 Full Stack Developer specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🐍 Also build backends with **Python, FastAPI, and SQL/PostgreSQL**
+- 🤖 Currently exploring **Machine Learning & AI**, applying it to real-world projects
+- 🎨 UI/UX-minded — comfortable in **Figma** and **Canva** for design work
+- 📫 Reach me at **zohaibaliwork@gmail.com**
+  
 🛠️ Tech Stack
 <p align="center">
 <b>Languages</b><br><br>
@@ -51,4 +69,3 @@ const zohaibAli = {  title: "Full Stack Developer | MERN Stack | Python & FastAP
 <a href="mailto:zohaibaliwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer" />
