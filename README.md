@@ -17,55 +17,77 @@
 - 🤖 Currently exploring **Machine Learning & AI**, applying it to real-world projects
 - 🎨 UI/UX-minded — comfortable in **Figma** and **Canva** for design work
 - 📫 Reach me at **zohaibaliwork@gmail.com**
-  
-🛠️ Tech Stack
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Machine Learning / AI**
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Tools & Deployment**
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-<b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,csharp,python,js&theme=light" />
+  <img src="https://streak-stats.demolab.com?user=githubzohaib&theme=nord&hide_border=true&background=00000000&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
 </p>
 
 <p align="center">
-<b>Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=react,html,tailwindcss,vite&theme=light" />
+  <img src="https://github-profile-trophy.vercel.app/?username=githubzohaib&theme=nord&no-frame=true&no-bg=true&title_color=7dd3fc" />
 </p>
 
 <p align="center">
-<b>Backend & APIs</b><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubzohaib&bg_color=00000000&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-<b>Databases & AI/ML</b><br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,numpy,pandas,tensorflow&theme=light" />
-</p>
+---
 
-<p align="center">
-<b>Tools & Deployment</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,render&theme=light" />
-</p>
+### 🌐 Connect With Me
 
-📊 GitHub Stats
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=githubzohaib&show_icons=true&theme=nord&hide_border=true&bg_color=00000000&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubzohaib&layout=compact&theme=nord&hide_border=true&bg_color=00000000&title_color=7dd3fc&text_color=ffffff" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=githubzohaib&theme=nord&hide_border=true&background=00000000&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
-</p>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zohaibdesign)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaib-ali-5251b328b/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaibaliwork@gmail.com)
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=githubzohaib&theme=nord&no-frame=true&no-bg=true&title_color=7dd3fc" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=githubzohaib&bg_color=00000000&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" />
-</p>
-
-🌐 Connect With Me
-<p align="center">
-<a href="https://behance.net/zohaibdesign"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
-<a href="https://linkedin.com/in/zohaib-ali-5251b328b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:zohaibaliwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
+</div>
