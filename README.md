@@ -12,7 +12,7 @@
 </div>
 <br/>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 🚀 Full Stack Developer specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🐍 Also build backends with **Python, FastAPI, and SQL/PostgreSQL**
@@ -75,7 +75,7 @@
 
 <br/>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=githubzohaib&theme=nord&hide_border=true&background=00000000&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="48%"/>
