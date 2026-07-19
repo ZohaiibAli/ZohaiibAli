@@ -17,7 +17,6 @@
 - 🚀 Full Stack Developer specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🐍 Also build backends with **Python, FastAPI, and SQL/PostgreSQL**
 - 🤖 Currently exploring **Machine Learning & AI**, applying it to real-world projects
-- 🎨 UI/UX-minded — comfortable in **Figma** and **Canva** for design work
 - 📫 Reach me at **zohaibaliwork@gmail.com**
 
 ---
@@ -92,7 +91,6 @@
 
 <div align="center">
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/zohaibdesign)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaib-ali-5251b328b/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibaliwork@gmail.com)
 
