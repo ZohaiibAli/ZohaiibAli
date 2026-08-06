@@ -78,8 +78,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=githubzohaib&theme=nord&hide_border=true&background=00000000&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=githubzohaib&bg_color=00000000&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=ZohaiibAli&theme=nord&hide_border=true&background=00000000&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZohaiibAli&bg_color=00000000&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 <br/>
 
