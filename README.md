@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zohaib Ali 👋
+# Hi, I'm Zohaib Ali
 
 ### Full Stack Developer | MERN Stack | Python & FastAPI | ML/AI Enthusiast
 
@@ -12,17 +12,17 @@
 </div>
 <br/>
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🚀 Full Stack Developer specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🐍 Also build backends with **Python, FastAPI, and SQL/PostgreSQL**
-- 🤖 Currently exploring **Machine Learning & AI**, applying it to real-world projects
-- 📫 Reach me at **zohaibaliwork@gmail.com**
+- Full Stack Developer specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
+- Also build backends with **Python, FastAPI, and SQL/PostgreSQL**
+- Currently exploring **Machine Learning & AI**, applying it to real-world projects
+- Reach me at **zohaibaliwork@gmail.com**
 
 ---
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ZohaiibAli&theme=nord&hide_border=true&background=00000000&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="48%"/>
@@ -85,7 +85,7 @@
 
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -98,4 +98,4 @@
 
 <div align="center">
 
-### 💭 *"Turning ideas into clean, working code — one commit at a time."*
+### *"Turning ideas into clean, working code — one commit at a time."*
