@@ -2,7 +2,7 @@
 
 # Hi, I'm Zohaib Ali
 
-### Full Stack Developer | MERN Stack | Python & FastAPI | AI/ML Engineer
+### Full Stack Engineer ( Web / Mobile ) | AI/ML Engineer
 
 </div>
 <div align="center">
